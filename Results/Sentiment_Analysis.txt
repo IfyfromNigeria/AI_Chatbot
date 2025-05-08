@@ -1,0 +1,5 @@
+Results for Sentiment Analysis:
+Accuracy: 0.8600
+F1 Score: 0.8427
+Precision: 0.8399
+Recall: 0.8600

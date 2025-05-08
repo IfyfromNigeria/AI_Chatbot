@@ -1,0 +1,5 @@
+Results for Emotion Detection (DailyDialog):
+Accuracy: 0.8677
+F1 Score: 0.8554
+Precision: 0.8507
+Recall: 0.8677

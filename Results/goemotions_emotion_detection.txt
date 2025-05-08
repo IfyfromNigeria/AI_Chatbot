@@ -1,0 +1,5 @@
+Results for Emotion Detection (GoEmotions):
+Accuracy: 0.5654
+F1 Score: 0.5522
+Precision: 0.5520
+Recall: 0.5654
